@@ -1,7 +1,10 @@
-numpy
 pandas
-python-dotenv
-mysql-connector-python
-pymysql
-scikit-learn 
--e .
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+#-e .
