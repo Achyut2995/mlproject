@@ -6,5 +6,11 @@ scikit-learn
 catboost
 xgboost
 Flask
+mlflow
+python-dotenv
+mysql-connector-python
+pymysql
+cryptographypi
+dagshub
 
 #-e .
